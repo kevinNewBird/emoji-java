@@ -7959,6 +7959,15 @@
     "tags": []
   },
   {
+    "emojiChar": "􀴁",
+    "emoji": "\uDBC3\uDD01",
+    "description": "weiwuer language cube",
+    "aliases": [
+      "weiwuer_language_cube"
+    ],
+    "tags": []
+  },
+  {
     "emojiChar": "🎴",
     "emoji": "\uD83C\uDFB4",
     "description": "flower playing cards",
